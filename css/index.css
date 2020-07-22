@@ -1441,7 +1441,8 @@ kbd {
     text-align: center;
 }
 
-.sidebar-ov-social-item {
+
+/* .sidebar-ov-social-item {
     display: inline-block;
     margin: 0.2rem;
     text-align: center;
@@ -1457,7 +1458,7 @@ kbd {
     -o-transition: background-color 0.2s ease;
     -ms-transition: background-color 0.2s ease;
     transition: background-color 0.2s ease;
-}
+} */
 
 .sidebar-ov-author__avatar {
     margin: 0 auto;
